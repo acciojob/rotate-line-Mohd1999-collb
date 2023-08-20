@@ -10,7 +10,7 @@
 
 .rotateLine{
     background-color: brown;
-    animation: rotate 5s linear none normal;
+    animation: rotate 4s linear infinite normal;
 }
 
 @keyframes rotate {
