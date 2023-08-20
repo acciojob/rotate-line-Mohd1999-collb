@@ -3,11 +3,14 @@
     width: 200px;
     height: 2px;
     background-color: black;
+	position:absolute;
+	top:15em;
+	left: 10em;
 }
 
 .rotateLine{
     background-color: brown;
-    animation: rotate 5s linear infinite normal;
+    animation: rotate 5s linear none normal;
 }
 
 @keyframes rotate {
